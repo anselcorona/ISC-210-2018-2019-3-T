@@ -5,6 +5,7 @@ using UnityEngine;
 public class BoatPlayerBehavior : MonoBehaviour
 {
 
+    public int HitPoints = 3;
     float _speed = 10f;
     Vector3 _deltaPos;
     private Animator animator;
