@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -22,9 +23,21 @@ public class ScoreController : MonoBehaviour
     public TextMesh Red;
     public TextMesh Purple;
     public TextMesh Orange;
+
     void Start()
     {
-        
+        ResetTextScores();
+    }
+
+    void ResetTextScores()
+    {
+        Blue.text = essenceScores["Blue"].ToString();
+        Green.text = essenceScores["Green"].ToString();
+        Red.text = essenceScores["Red"].ToString();
+        Purple.text = essenceScores["Purple"].ToString();
+        Yellow.text = essenceScores["Yellow"].ToString();
+        Orange.text = essenceScores["Orange"].ToString();
+
     }
 
     // Update is called once per frame
@@ -43,14 +56,19 @@ public class ScoreController : MonoBehaviour
                 Blue.text = essenceScores[essenceTag].ToString();
                 break;
             case "Green":
+                Green.text = essenceScores[essenceTag].ToString();
                 break;
             case "Red":
+                Red.text = essenceScores[essenceTag].ToString();
                 break;
             case "Purple":
+                Purple.text = essenceScores[essenceTag].ToString();
                 break;
             case "Yellow":
+                Yellow.text = essenceScores[essenceTag].ToString();
                 break;
             case "Orange":
+                Orange.text = essenceScores[essenceTag].ToString();
                 break;
 
         }

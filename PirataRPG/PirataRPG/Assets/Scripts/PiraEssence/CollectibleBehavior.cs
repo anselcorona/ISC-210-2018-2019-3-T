@@ -4,9 +4,19 @@ using UnityEngine;
 
 public class CollectibleBehavior : MonoBehaviour
 {
+    BoatPlayerBehavior boatPlayerBehavior;
+    ScoreController scoreController;
     float accelX = -10f;
     float currentSpeedX = 0f;
     float deltaX;
+
+
+    private void Awake()
+    {
+        boatPlayerBehavior = GameObject.Find("Player").GetComponent<BoatPlayerBehavior>();
+        scoreController = GameObject.Find("GlobalScripts").GetComponent<ScoreController>();
+    }
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,5 +33,17 @@ public class CollectibleBehavior : MonoBehaviour
         gameObject.transform.Translate(new Vector3(deltaX,0f));
 
         currentSpeedX += accelX * Time.deltaTime;
+    }
+
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.name != "Player")
+            return;
+
+        if (gameObject.tag == "Spike")
+            boatPlayerBehavior.OnHitted();
+        else
+            scoreController.AddEssence(gameObject.tag);
+        Destroy(gameObject);
     }
 }

@@ -306,6 +306,7 @@
 "Assets/Scripts/PiraEssence/BoatPlayerBehavior.cs"
 "Assets/Scripts/PiraEssence/CollectibleBehavior.cs"
 "Assets/Scripts/PiraEssence/Instantiatior.cs"
+"Assets/Scripts/PiraEssence/ScoreController.cs"
 "Assets/Scripts/PiraPong/BallBehavior.cs"
 "Assets/Scripts/PiraPong/DeadZoneController.cs"
 "Assets/Scripts/PiraPong/GlobalScript.cs"
