@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: beac81d2090fb470fb1ce10d8c745c61
+  - enabled: 1
+    path: Assets/Scenes/Tavern.unity
+    guid: cbadc379b2a7b4668a923563045126b8
+  - enabled: 1
+    path: Assets/Scenes/PiraEssence.unity
+    guid: 8c657b5870f3a4546a77a9ea35b20d35
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: 6ee66e28453ab004382aeb774721fb90
+  - enabled: 1
+    path: Assets/Scenes/Brick-Breaker.unity
+    guid: c3bf9092c20cd41c2b0cbc0a649bd9a4
   m_configObjects: {}

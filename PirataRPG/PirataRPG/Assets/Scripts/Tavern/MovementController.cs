@@ -1,0 +1,43 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MovementController : MonoBehaviour
+{
+
+    Vector3 maxWalkSpeed = new Vector3(1f, 1f), maxRunSpeed = new Vector3(5f, 5f), currentMovementSpeed;
+    bool isAttacking, isRunning, lookingRight = true;
+    Animator currentAnimator;
+    // Start is called before the first frame update
+    void Start()
+    {
+        currentAnimator = GetComponent<Animator>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+        if(gameObject.name == "Player")
+        {
+            isRunning = Input.GetButton("Fire3");
+            isAttacking = Input.GetButton("Fire1");
+
+            currentMovementSpeed = 
+                new Vector3(Input.GetAxis("Horizontal") * (isRunning ? maxRunSpeed.x : maxWalkSpeed.x),
+                Input.GetAxis("Vertical") * (isRunning ? maxRunSpeed.y : maxWalkSpeed.y));
+        }
+        currentAnimator.SetBool("IsAttacking", isAttacking);
+        currentAnimator.SetFloat("Speed", currentMovementSpeed.magnitude);
+        //currentMovementSpeed *= Time.deltaTime;
+
+        if (currentMovementSpeed.x < 0)
+            lookingRight = false;
+        else if (currentMovementSpeed.x > 0)
+            lookingRight = true;
+
+        gameObject.transform.rotation = new Quaternion(0, lookingRight? 0 : 180, 0,0);
+        gameObject.GetComponent<Rigidbody>().velocity = currentMovementSpeed;
+        
+    }
+}
