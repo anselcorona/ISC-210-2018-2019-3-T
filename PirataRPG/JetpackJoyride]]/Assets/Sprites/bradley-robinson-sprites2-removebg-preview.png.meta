@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: a6ae87b9453ab490da522f9c2937600e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5134612732819849348
+    second: bradley-robinson-sprites2-removebg-preview_0
+  - first:
+      213: 6271768204246372149
+    second: bradley-robinson-sprites2-removebg-preview_1
+  - first:
+      213: 5758547157013620000
+    second: bradley-robinson-sprites2-removebg-preview_2
+  - first:
+      213: -5832338807583199332
+    second: bradley-robinson-sprites2-removebg-preview_3
+  - first:
+      213: -8224771413801921598
+    second: bradley-robinson-sprites2-removebg-preview_4
+  - first:
+      213: -3649241242152169471
+    second: bradley-robinson-sprites2-removebg-preview_5
+  - first:
+      213: 8602968886423592009
+    second: bradley-robinson-sprites2-removebg-preview_6
+  - first:
+      213: 2347688362275523215
+    second: bradley-robinson-sprites2-removebg-preview_7
+  - first:
+      213: 1400841395127953999
+    second: bradley-robinson-sprites2-removebg-preview_8
+  - first:
+      213: -490301471167509535
+    second: bradley-robinson-sprites2-removebg-preview_9
+  - first:
+      213: -272686834866814992
+    second: bradley-robinson-sprites2-removebg-preview_10
+  - first:
+      213: 92357179002820737
+    second: bradley-robinson-sprites2-removebg-preview_11
+  - first:
+      213: 4924567373798759857
+    second: bradley-robinson-sprites2-removebg-preview_12
+  - first:
+      213: -4666473560973282847
+    second: bradley-robinson-sprites2-removebg-preview_13
+  - first:
+      213: 6318145689185282953
+    second: bradley-robinson-sprites2-removebg-preview_14
+  - first:
+      213: -842169344647110333
+    second: bradley-robinson-sprites2-removebg-preview_15
+  - first:
+      213: -1168959590537617999
+    second: bradley-robinson-sprites2-removebg-preview_16
+  - first:
+      213: 5344615605583753969
+    second: bradley-robinson-sprites2-removebg-preview_17
+  - first:
+      213: -4491501973722404511
+    second: bradley-robinson-sprites2-removebg-preview_18
+  - first:
+      213: -6556355469376656163
+    second: bradley-robinson-sprites2-removebg-preview_19
+  - first:
+      213: 6490099500043087614
+    second: bradley-robinson-sprites2-removebg-preview_20
+  - first:
+      213: 5453979363723656314
+    second: bradley-robinson-sprites2-removebg-preview_21
+  - first:
+      213: -5258797184714564281
+    second: bradley-robinson-sprites2-removebg-preview_22
+  - first:
+      213: 5871195464714416060
+    second: bradley-robinson-sprites2-removebg-preview_23
+  - first:
+      213: -5982049759498661529
+    second: bradley-robinson-sprites2-removebg-preview_24
+  - first:
+      213: -190051206454772213
+    second: bradley-robinson-sprites2-removebg-preview_25
+  - first:
+      213: -1052507155465619245
+    second: bradley-robinson-sprites2-removebg-preview_26
+  - first:
+      213: -5066083446571087031
+    second: bradley-robinson-sprites2-removebg-preview_27
+  - first:
+      213: 7849991968342904497
+    second: bradley-robinson-sprites2-removebg-preview_28
+  - first:
+      213: 4329085824336732880
+    second: bradley-robinson-sprites2-removebg-preview_29
+  - first:
+      213: -4529218748628670242
+    second: bradley-robinson-sprites2-removebg-preview_30
+  - first:
+      213: 1093515433772529730
+    second: bradley-robinson-sprites2-removebg-preview_31
+  - first:
+      213: 7555569175135698161
+    second: bradley-robinson-sprites2-removebg-preview_32
+  - first:
+      213: -4537355197862502198
+    second: bradley-robinson-sprites2-removebg-preview_33
+  - first:
+      213: 8204990779731549686
+    second: bradley-robinson-sprites2-removebg-preview_34
+  - first:
+      213: 2859061375001622437
+    second: bradley-robinson-sprites2-removebg-preview_35
+  - first:
+      213: -8466586552663752242
+    second: bradley-robinson-sprites2-removebg-preview_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 279
+        width: 73
+        height: 92
+      alignment: 9
+      pivot: {x: 0.43575343, y: 0.5446061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1225b4edd0db74c7fbbe490689a84f3d
+      internalID: 5134612732819849348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 282
+        width: 87
+        height: 92
+      alignment: 9
+      pivot: {x: 0.46630737, y: 0.5382339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae561ecc1e7840b0bf9a181ec2a9316
+      internalID: 6271768204246372149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 283
+        width: 80
+        height: 90
+      alignment: 9
+      pivot: {x: 0.47068748, y: 0.51954174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bb5573311c048eaaf883703656eb15
+      internalID: 5758547157013620000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 277
+        width: 75
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4218335, y: 0.5555394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a95478d352804279921490d0a927a06
+      internalID: -5832338807583199332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 281
+        width: 91
+        height: 92
+      alignment: 9
+      pivot: {x: 0.42913482, y: 0.5509783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b1b3eabe9844e984d12676699e071
+      internalID: -8224771413801921598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 280
+        width: 81
+        height: 93
+      alignment: 9
+      pivot: {x: 0.42038605, y: 0.5378228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d4e5c8516c4d2882a22273b36e2a5
+      internalID: -3649241242152169471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 145
+        width: 80
+        height: 126
+      alignment: 9
+      pivot: {x: 0.41939068, y: 0.7465972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad655ebf667ec415480c81e16ef6ba99
+      internalID: 8602968886423592009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 152
+        width: 80
+        height: 118
+      alignment: 9
+      pivot: {x: 0.40473443, y: 0.75337905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eaa15972df541ab92cf4ab795d96ae
+      internalID: 2347688362275523215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 146
+        width: 78
+        height: 125
+      alignment: 9
+      pivot: {x: 0.40229172, y: 0.74856985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dacd01c3fdbf4088b56686988c77a68
+      internalID: 1400841395127953999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 146
+        width: 79
+        height: 125
+      alignment: 9
+      pivot: {x: 0.41837013, y: 0.73449975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d539b2d3d9e4c2f95d968889ee1dc0
+      internalID: -490301471167509535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 182
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be64222c023641809f203882bc09963
+      internalID: -272686834866814992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 182
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202e2f82d6f64735b674b4954745a9c
+      internalID: 92357179002820737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 73
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dbfbbb1f4764bd88c65dbe5c3353d5
+      internalID: 4924567373798759857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 74
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136bafb57a5574665a9950f1159157a2
+      internalID: -4666473560973282847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 78
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f34a29c81a04d028eb3bff85b365e5
+      internalID: 6318145689185282953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 81
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a899c468e24e40e6a27642b4afb7e7e
+      internalID: -842169344647110333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 80
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0ac8be294840d1bac22015b046162
+      internalID: -1168959590537617999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 80
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37d1fa320a3340449ac625fe154d6e2
+      internalID: 5344615605583753969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 80
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7fd21a17fd4b469b6846f42ba87de
+      internalID: -4491501973722404511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 81
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222e263554c5545e9bc89b740792ca90
+      internalID: -6556355469376656163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 82
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2807611c86b6450d828f07fa3877b50
+      internalID: 6490099500043087614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f377d0674e414c99bbf8df194068c
+      internalID: 5453979363723656314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 22
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf3b394bf4348ccbfd2d45f458e025
+      internalID: -5258797184714564281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 19
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e7068e4bfc94747ac7f362a4d102c8
+      internalID: 5871195464714416060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 21
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822491889f784419590a073dd8b9ce40
+      internalID: -5982049759498661529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 15
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ebe9a2996241d684e496ce70193df
+      internalID: -190051206454772213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 14
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43209d101f20d467cb3fa76212ea6107
+      internalID: -1052507155465619245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90889c5aee09b455696d45562e51d459
+      internalID: -5066083446571087031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a3c33144b64c109d8ae25708337bf
+      internalID: 7849991968342904497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 26
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4f15a8093949d486396c81b69d588
+      internalID: 4329085824336732880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 24
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e729869de8d4f08ad148377d6948c9
+      internalID: -4529218748628670242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 24
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7941669f5645259b87e382421701c
+      internalID: 1093515433772529730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 26
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9983aa79bd88489e9a12d1644ecf8e6
+      internalID: 7555569175135698161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 24
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5ea1fa03f54ccba8d3f52cadde1cb
+      internalID: -4537355197862502198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430094491092e45dcb147d7b2b75d07c
+      internalID: 8204990779731549686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 24
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00082ac15d8114af49a271f7d7a22c44
+      internalID: 2859061375001622437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bradley-robinson-sprites2-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a367e3c8a1c4e0bbf257e03acb6305
+      internalID: -8466586552663752242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd2fd015cc1e44a34b1023742b9ab126
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

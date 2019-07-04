@@ -1,0 +1,28 @@
+{
+  "name": "Score",
+  "plural": "Scores",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "PlayerName": {
+      "type": "string",
+      "required": true
+    },
+    "DistanceRan": {
+      "type": "number",
+      "required": true,
+      "default": 0
+    },
+    "Coins": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

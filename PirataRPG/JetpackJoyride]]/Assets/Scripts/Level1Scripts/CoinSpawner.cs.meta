@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a6acdce07c02c4e2e87ba122c281f58a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Row: {fileID: 6795001895950515279, guid: 78a9ca4190a184be7be8faf2537e5173, type: 3}
+  - SmallSquare: {instanceID: 0}
+  - BigSquare: {instanceID: 0}
+  - HollowSquare: {fileID: 4814767835989483000, guid: aaa6fa55c18dc473fb04fb5710f99f45,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

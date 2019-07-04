@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: 3917c2eaeebd64330922191447b66e37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7595196959618528066
+    second: quenigga_0
+  - first:
+      213: 6787255927738412862
+    second: quenigga_1
+  - first:
+      213: 6286974034146142208
+    second: quenigga_2
+  - first:
+      213: -2022678584616765713
+    second: quenigga_3
+  - first:
+      213: -2148659855107424584
+    second: quenigga_4
+  - first:
+      213: 1922239559547558491
+    second: quenigga_5
+  - first:
+      213: 7716219766910177631
+    second: quenigga_6
+  - first:
+      213: 1841623585322583548
+    second: quenigga_7
+  - first:
+      213: 4756461947025904003
+    second: quenigga_8
+  - first:
+      213: 2934269531186663550
+    second: quenigga_9
+  - first:
+      213: -651455954482834672
+    second: quenigga_10
+  - first:
+      213: -4806157953011013680
+    second: quenigga_11
+  - first:
+      213: -6274831363979713272
+    second: quenigga_12
+  - first:
+      213: 1162219792277316059
+    second: quenigga_13
+  - first:
+      213: 117637440804186321
+    second: quenigga_14
+  - first:
+      213: -660402603224933962
+    second: quenigga_15
+  - first:
+      213: -4881691249281375755
+    second: quenigga_16
+  - first:
+      213: 8456016700886883745
+    second: quenigga_17
+  - first:
+      213: -1677279552252344438
+    second: quenigga_18
+  - first:
+      213: -1563220718581335961
+    second: quenigga_19
+  - first:
+      213: 7988010308400653219
+    second: quenigga_20
+  - first:
+      213: 8684006089585340622
+    second: quenigga_21
+  - first:
+      213: 2291691105048695185
+    second: quenigga_22
+  - first:
+      213: -6057239278472265340
+    second: quenigga_23
+  - first:
+      213: 8721594616358625024
+    second: quenigga_24
+  - first:
+      213: -3886198865774748660
+    second: quenigga_25
+  - first:
+      213: 6925826817227337813
+    second: quenigga_26
+  - first:
+      213: 5889317917330780275
+    second: quenigga_27
+  - first:
+      213: 5248760565703471540
+    second: quenigga_28
+  - first:
+      213: -3087585226477625966
+    second: quenigga_29
+  - first:
+      213: -2063806188420565466
+    second: quenigga_30
+  - first:
+      213: -1727890218582985390
+    second: quenigga_31
+  - first:
+      213: 7961443186304713058
+    second: quenigga_32
+  - first:
+      213: -7322613197635063321
+    second: quenigga_33
+  - first:
+      213: 3863504023663801162
+    second: quenigga_34
+  - first:
+      213: -5550684516481204213
+    second: quenigga_35
+  - first:
+      213: 8774088318707123970
+    second: quenigga_36
+  - first:
+      213: -6089873823506863392
+    second: quenigga_37
+  - first:
+      213: -928125650847306323
+    second: quenigga_38
+  - first:
+      213: -1018342971236159605
+    second: quenigga_39
+  - first:
+      213: -8846059179909686318
+    second: quenigga_40
+  - first:
+      213: 7148663766492046974
+    second: quenigga_41
+  - first:
+      213: 3548396295533479902
+    second: quenigga_42
+  - first:
+      213: 5933609308175514638
+    second: quenigga_43
+  - first:
+      213: -7174867772238363264
+    second: quenigga_44
+  - first:
+      213: -9114289114734052883
+    second: quenigga_45
+  - first:
+      213: -4168126439371891711
+    second: quenigga_46
+  - first:
+      213: 8742223548359872728
+    second: quenigga_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quenigga_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3375ebcead5487f92e5fd67d170eda
+      internalID: 7595196959618528066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 354
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab9493a00b1e4bb1b29c80f27260ae9
+      internalID: 6787255927738412862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 352
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6887b10a784749f7ab70cd59738e2e7
+      internalID: 6286974034146142208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 347
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bddc080a4d3416480718a8ec38191e
+      internalID: -2022678584616765713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 346
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c630a7ce50142269830e22356714e8
+      internalID: -2148659855107424584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 346
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e50a8f0d5a45fb8f49bd94cef22df
+      internalID: 1922239559547558491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 346
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3bdfb881e9e4c558d1a89552541a0f
+      internalID: 7716219766910177631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 346
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2480f8c419d4248bd0382a8c10750b
+      internalID: 1841623585322583548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 285
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1c5ddcbeef4ed0b1b779f3873b477
+      internalID: 4756461947025904003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 286
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d0d8d988e041dda2a44ae5325eff1
+      internalID: 2934269531186663550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 284
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ba9bf360404563ac665d276328bcd
+      internalID: -651455954482834672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 278
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f66614462d2455b9005268898e31f4
+      internalID: -4806157953011013680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 278
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e08dc62d5749e4b02477dabfa2a12
+      internalID: -6274831363979713272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 278
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd97ea2854c0943d2a63c831036b1f50
+      internalID: 1162219792277316059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_14
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 279
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23637c1f2d047dca4a371dff44f276
+      internalID: 117637440804186321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 279
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530c6e50225246e69fb97d223ff571c
+      internalID: -660402603224933962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 218
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb386fbbaab9d4f7fab8754a53a58d6c
+      internalID: -4881691249281375755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 219
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85077ef6ff14942f387a2322f5a9f245
+      internalID: 8456016700886883745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 218
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216acd9baf5946b5bec847f483a2382
+      internalID: -1677279552252344438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 212
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f63d865a2bf422c9424fafbdab99ca
+      internalID: -1563220718581335961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 211
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dadb55f875cb41d797f7d851dcc8c9c
+      internalID: 7988010308400653219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25694b1e6ecb04001b2fecb3adededec
+      internalID: 8684006089585340622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_22
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 212
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07449837678894e00bae7cc312bd1c55
+      internalID: 2291691105048695185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_23
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 212
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4cb6eda8ba64fe8980413ea04cd7b3
+      internalID: -6057239278472265340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791b844e88744c07a3253a036ad1e36
+      internalID: 8721594616358625024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 152
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892fe8c1fc39e4e44bf5c127fbeb7087
+      internalID: -3886198865774748660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83d197644134696bac0ebea7486c6a
+      internalID: 6925826817227337813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 145
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be59d89360e3645c7b9de2e9ada4d81a
+      internalID: 5889317917330780275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 145
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686fbcb52699488fb804cf3ed9012d9
+      internalID: 5248760565703471540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 145
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ee5d63169b6436293ad3d94d897278
+      internalID: -3087585226477625966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 145
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cdae1595ee24b2893308d59ce24a63
+      internalID: -2063806188420565466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 145
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b8c1daab9249e39e2e86d738fa597
+      internalID: -1727890218582985390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39301384c01ce4f9382e4017772bf2f8
+      internalID: 7961443186304713058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 85
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc433fc7944964712a3d8653f7433733
+      internalID: -7322613197635063321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 83
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce1cb211886493f8383cb5def9ac4b
+      internalID: 3863504023663801162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 78
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907149d04ead46a3af828d9c8284f63
+      internalID: -5550684516481204213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_36
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 77
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21397a1381cd142d39aaa5086488a789
+      internalID: 8774088318707123970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_37
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 78
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ab9424cd8434469bd448d1e6b1d236
+      internalID: -6089873823506863392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 78
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a73919a6054b96803b0d51a08f80e
+      internalID: -928125650847306323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_39
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 78
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4581343054d479896b7c768fa2ad9c
+      internalID: -1018342971236159605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81567b0a8d84d72acb4255a239fa5a
+      internalID: -8846059179909686318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 74
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe55c2837ff44a08d2b7dfddd82b50
+      internalID: 7148663766492046974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 16
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905f669c7cd048d8ae0591193b46720
+      internalID: 3548396295533479902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_43
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 10
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599df46108074a64802348460470713
+      internalID: 5933609308175514638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 11
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df86db0bbb832415a81b926158c86942
+      internalID: -7174867772238363264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_45
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 11
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea366e0198d482b95c93bf06cdb5f6
+      internalID: -9114289114734052883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 11
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed14bc1684a77418badcc0b7da1eb8af
+      internalID: -4168126439371891711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quenigga_47
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 11
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed708a2687622465bae42a8db1a2fa91
+      internalID: 8742223548359872728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d1ff490ec2fea418abb4166d6a17f669
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
