@@ -1,19 +1,20 @@
 ﻿using System;
-public class Game
+namespace Assets.Scripts.Entities
 {
-
-    public string PlayerName { get; set; }
-    public Level CurrentLevel { get; set; }
-    private static Game _instance;
-
-
-
-    public Game Instance()
+    public class Game
     {
-        if(_instance == null)
+        public string PlayerName { get; set; }
+        public Level CurrentLevel { get; set; }
+        private static Game _instance;
+        public Game Instance()
         {
-            _instance = new Game();
+            if (_instance == null)
+            {
+                _instance = new Game();
+                _instance.CurrentLevel = new Level();
+                //_instance.CurrentLevel.characters;
+            }
+            return _instance;
         }
-        return _instance;
     }
 }

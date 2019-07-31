@@ -1,0 +1,71 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MinePlayerBehavior : MonoBehaviour
+{
+
+    Vector3 maxWalkSpeed = new Vector3(2.5f, 0f), maxRunSpeed = new Vector3(5f, 0f), currentMovementSpeed;
+    Vector3 maxEnemyWalkSpeed = new Vector3(3f, 0f);
+    bool isAttacking, isRunning, lookingRight = true;
+    Animator currentAnimator;
+    SpriteRenderer spriteRenderer;
+    SoundManager soundManager;
+    GameObject _player;
+    const float _ATTACKDISTANCE = 1.5f;
+    const float _ENEMYDETECTIONDISTANCE = 4f;
+    // Start is called before the first frame update
+    void Start()
+    {
+        soundManager = GameObject.Find("SoundManager").GetComponent<SoundManager>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        currentAnimator = GetComponent<Animator>();
+        _player = GameObject.FindGameObjectWithTag("Player"); // For the enemies
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+        if (gameObject.name == "Player")
+        {
+            isRunning = Input.GetButton("Fire3");
+            isAttacking = Input.GetButton("Fire1");
+
+            currentMovementSpeed =
+                new Vector3(Input.GetAxis("Horizontal") * (isRunning ? maxRunSpeed.x : maxWalkSpeed.x),
+                gameObject.transform.position.y);
+        }
+        else if (gameObject.tag == "Enemy")
+        {
+            if (Vector3.Distance(_player.transform.position, transform.position) <= _ATTACKDISTANCE)
+                isAttacking = true;
+            isRunning = false; //Enemies don't run.
+            if (Vector3.Distance(_player.transform.position, transform.position) <= _ENEMYDETECTIONDISTANCE)
+            {
+                currentMovementSpeed = new Vector3(((_player.transform.position.x < transform.position.x) ? -1 : 1) * maxEnemyWalkSpeed.x,
+                    0);
+            }
+            else
+                currentMovementSpeed = Vector3.zero;
+        }
+
+        currentAnimator.SetBool("IsAttacking", isAttacking);
+        if (isAttacking)
+        {
+            soundManager.playSword();
+        }
+        currentAnimator.SetFloat("Speed", currentMovementSpeed.magnitude);
+        //currentMovementSpeed *= Time.deltaTime;
+
+        if (currentMovementSpeed.x < 0)
+            lookingRight = false;
+        else if (currentMovementSpeed.x > 0)
+            lookingRight = true;
+
+        //gameObject.transform.rotation = new Quaternion(0, lookingRight? 0 : 180, 0,0);
+        spriteRenderer.flipX = lookingRight ? false : true;
+        gameObject.GetComponent<Rigidbody>().velocity = currentMovementSpeed;
+
+    }
+}

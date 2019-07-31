@@ -1,0 +1,23 @@
+{
+  "name": "PongScore",
+  "plural": "PongScores",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "PlayerName": {
+      "type": "string",
+      "required": true
+    },
+    "Score": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

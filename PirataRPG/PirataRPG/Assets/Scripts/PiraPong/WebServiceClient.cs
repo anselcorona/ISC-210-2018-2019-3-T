@@ -12,6 +12,7 @@ public class Scores
 }
 public class WebServiceClient : MonoBehaviour
 {
+    string url = "http://localhost:3000/api/Scores";
 
     UnityWebRequest www;
 
@@ -21,18 +22,14 @@ public class WebServiceClient : MonoBehaviour
     {
         globalScript = Camera.main.GetComponent<GlobalScript>();
     }
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+
 
     // Update is called once per frame
     void Update()
     {
         if (Input.GetButtonDown("Fire3"))
         {
-            StartCoroutine(SendPostRequest("https://isc2103-2018-2019rpgwebapi.azurewebsites.net/api/Scores"));
+            StartCoroutine(SendPostRequest(url));
         }
     }
 

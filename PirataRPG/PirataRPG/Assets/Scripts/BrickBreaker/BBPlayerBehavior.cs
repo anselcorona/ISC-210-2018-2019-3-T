@@ -9,11 +9,6 @@ public class BBPlayerBehavior : MonoBehaviour
     const float LEFTLIMIT = -7.5f;
     private float _speed = 10f;
     Vector3 _deltaPos;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()

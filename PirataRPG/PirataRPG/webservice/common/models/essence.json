@@ -1,0 +1,45 @@
+{
+  "name": "Essence",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "IdScore": {
+      "type": "number"
+    },
+    "Blue": {
+      "type": "number",
+      "required": true
+    },
+    "Green": {
+      "type": "number",
+      "required": true
+    },
+    "Red": {
+      "type": "number",
+      "required": true
+    },
+    "Purple": {
+      "type": "number",
+      "required": true
+    },
+    "Yellow": {
+      "type": "number",
+      "required": true
+    },
+    "Orange": {
+      "type": "number",
+      "required": true
+    },
+    "PlayerName": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

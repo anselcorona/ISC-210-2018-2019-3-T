@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class ScoreController : MonoBehaviour
 {
-    Dictionary<string, int> essenceScores = 
+    public Dictionary<string, int> essenceScores = 
         new Dictionary<string, int> 
         {
          {"Blue",0},

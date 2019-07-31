@@ -7,7 +7,7 @@ namespace Assets.Scripts.Entities
     {
         public List<List<char>> Map { get; set; }
         public List<Character> characters { get; set; }
-        public List<Item> Items { get; set; }
+        //public List<Item> Items { get; set; }
         public List<Mission> Missions { get; set; }
     }
 }

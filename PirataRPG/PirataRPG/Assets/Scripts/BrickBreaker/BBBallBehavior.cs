@@ -5,11 +5,14 @@ using UnityEngine;
 public class BBBallBehavior : MonoBehaviour
 {
     public TextMesh startText;
-    private float _startingSpeed = 5f;
-    // Start is called before the first frame update
-    void Start()
+    private float _startingSpeed = 8f;
+    public float startTime = 0f;
+    bool gameStarted = false;
+    ScoreControl scoreControl;
+
+    private void Awake()
     {
-        
+        scoreControl = GameObject.Find("BBackground").GetComponent<ScoreControl>();
     }
 
     // Update is called once per frame
@@ -19,6 +22,11 @@ public class BBBallBehavior : MonoBehaviour
         {
             startText.text = "";
             gameObject.transform.SetParent(null);
+            if (!gameStarted)
+            {
+                gameStarted = !gameStarted;
+                scoreControl.StartTime = Time.timeSinceLevelLoad;
+            }
             gameObject.GetComponent<Rigidbody>().velocity = new Vector3(_startingSpeed, _startingSpeed);
 
         }

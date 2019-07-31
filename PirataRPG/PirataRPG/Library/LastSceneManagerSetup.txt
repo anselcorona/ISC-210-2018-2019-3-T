@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Brick-Breaker.unity
+- path: Assets/Scenes/ExplorationLevel1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

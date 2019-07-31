@@ -1,0 +1,26 @@
+{
+  "name": "Score",
+  "plural": "Scores",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "IdScore": {
+      "type": "number"
+    },
+    "PlayerName": {
+      "type": "string",
+      "required": true
+    },
+    "Score": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
